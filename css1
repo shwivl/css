@@ -1,0 +1,6 @@
+CSS Fact Dump 131019
+
+ORDER OF OVERWRITE IN STYLE
+
+important > style > id > class
+
